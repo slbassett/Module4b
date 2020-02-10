@@ -1,0 +1,23 @@
+html{
+  font-size: 10px;
+}
+button{
+  width: 175px;
+  height: 50px;
+  background-color: rgb(0,177,177);
+  border: 1px rgb(0,150,150) solid;
+  text-align:center;
+  background-color: rgb(0,177,177);
+  text-decoration-color: rgb(0,177,177);
+  text-shadow: black;
+}
+a:hover{
+  font-size: 1.6rem;
+  text-decoration-color: black;
+}
+
+.box{
+  width: 175px;
+  height: 50px;
+  box-shadow: 5px 5px 20px 10px;
+}
